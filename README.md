@@ -12,7 +12,7 @@ I run a small company called  [Sparkle](https://www.sparkle.tech) which aims at 
 
 📣 I organize the [DevDay](https://devday.be) in Belgium with a team of local developers. It's my way to give back to the community.
 
-🎼 Eventually, I spent time making music [here](https://open.spotify.com/artist/0MZQZskQHnEbgCgzJfZu65) and [there](https://soundcloud.com/morzak).
+🎼 Eventually, I spend time making music [here](https://open.spotify.com/artist/0MZQZskQHnEbgCgzJfZu65) and [there](https://soundcloud.com/morzak).
 
 
 <!--
