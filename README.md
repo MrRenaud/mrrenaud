@@ -14,7 +14,7 @@ I run a small company called  [Sparkle](https://www.sparkle.tech) which aims at 
 
 📖 In a previous life, I wrote a technical book to teach people how to build (Metro) apps for Windows 8 in HTML5 and JavaScript ([here](http://www.ma-editions.com/informatique/1-micro-application/41-le-guide-complet-titan/4192/developpez-en-html-5-pour-windows-8/)).
 
-🎼 Eventually, I spent time making music. And I released something on Spotify under the name of [Morzak](https://open.spotify.com/artist/0MZQZskQHnEbgCgzJfZu65?si=vH5_Ts5NRUmwa-9svia70w)
+🎼 Eventually, I spent time making music [here](https://open.spotify.com/artist/0MZQZskQHnEbgCgzJfZu65) and [there](https://soundcloud.com/morzak).
 
 
 <!--
